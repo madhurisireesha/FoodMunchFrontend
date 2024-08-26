@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.orcontainer{
+    background-image: url("https://media.licdn.com/dms/image/v2/D4D05AQGGjp_oqMYgLw/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1690705088537?e=2147483647&v=beta&t=xtBZqm3dl5dQGbwYYPhSiffRN8ATi-RW7EL7_P7idHg");
+    background-size: cover;
+    height: 100vh;
+    
+}

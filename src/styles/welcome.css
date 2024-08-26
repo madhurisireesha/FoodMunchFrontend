@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.itemscontainer{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    /* background-image: radial-gradient(rgb(118, 174, 172),pink); */
+    background-color: rgb(24, 21, 21);
+}
+.imagecontainer{
+    width:30%;
+}
+.desccontainer{
+    width:50%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:"white"
+}
+.imagi{
+    height:280px;
+    width:90%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}

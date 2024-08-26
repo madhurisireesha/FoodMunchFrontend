@@ -1,0 +1,29 @@
+.login-container{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFJr5UOOaPwvqBnRMem5FC-m3gU_aAHs9iw&s");
+    height:100vh;
+    background-size: cover;
+}
+.loginform{
+    background-color: #fff;
+    box-shadow: 0 0 10px #3f3f3f;
+    padding:30px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.loginform input{
+    border-color: 1px solid black;
+}
+.loginform label{
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.addcontainer{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+   background-image: radial-gradient(pink,skyblue);
+   height:100vh;
+   background-size: cover;
+}
+input,textarea{
+    padding:4%;
+    width:380px;
+    margin-top: 20px;
+    border-radius: 45px;
+    border:none;
+}
+.formcontainer{
+    background-color: #f4f0f0;
+    box-shadow: 0px 0px 10px #4f4f4f;
+    border-radius: 5px;
+    padding:30px;
+    
+}
+.formcontainer label{
+    font-weight: bold;
+    display: block;
+    margin-top: 4px;
+    font-size: 20px;
+
+}
